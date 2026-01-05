@@ -1,0 +1,27 @@
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start nomemaisapropriado.vbs
+start train.exe
+start BitBlt222.exe
+start cubes.exe
+start setpixel1.exe
+start polybezier.exe
+start elipse.exe
+start inv.exe 
+start rgb.exe
+start bouncingcircles.exe 
+start MBR PINTO CABELUDO.exe

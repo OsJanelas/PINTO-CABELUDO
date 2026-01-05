@@ -1,0 +1,1 @@
+x=msgbox("PINTO CABELUDO", 0+48, "Tenho uma coisa a dizer")
